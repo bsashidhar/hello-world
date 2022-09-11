@@ -2,4 +2,4 @@
 
 Hello World! 
 My name is Sashidhar and this is my first program for the class DSC520 - Statistics for Data Science.
-I love :coffee: and :chicken:
+I love :coffee: and :pizza:
